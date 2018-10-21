@@ -12,7 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1b78a4-a188-4fde-b03f-0ab119095fdd" name="Default Changelist" comment="" />
+    <list default="true" id="ba1b78a4-a188-4fde-b03f-0ab119095fdd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/particle_filter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/particle_filter.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="8686" />
+          <entry key="cpp" value="8688" />
           <entry key="h" value="661" />
           <entry key="mm" value="81" />
           <entry key="txt" value="120" />
@@ -59,7 +62,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="120" />
-          <entry key="ObjectiveC" value="9428" />
+          <entry key="ObjectiveC" value="9430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages">
@@ -106,8 +109,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+                <state relative-caret-position="2133">
+                  <caret line="145" column="37" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="37" />
                   <folding>
                     <element signature="e#0#20#0" expanded="true" />
                   </folding>
@@ -148,40 +151,20 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.55886334">
-          <split-first>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="261">
-                      <caret line="90" column="64" lean-forward="true" selection-start-line="90" selection-start-column="64" selection-end-line="90" selection-end-column="64" />
-                      <folding>
-                        <element signature="e#93#110#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-135">
-                      <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
-                      <folding>
-                        <element signature="e#93#110#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#93#110#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-second>
     </splitter>
   </component>
@@ -197,6 +180,9 @@
       <find>dataAssoci</find>
       <find>map</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -221,6 +207,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1127" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -347,7 +334,7 @@
       <workItem from="1539948030216" duration="2636000" />
       <workItem from="1540085147345" duration="359000" />
       <workItem from="1540085525731" duration="107000" />
-      <workItem from="1540085830143" duration="3754000" />
+      <workItem from="1540085830143" duration="4573000" />
     </task>
     <servers />
   </component>
@@ -384,7 +371,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45178000" />
+    <option name="totallyTimeSpent" value="45997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1127" extended-state="0" />
@@ -514,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+        <state relative-caret-position="2133">
+          <caret line="145" column="37" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="37" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -524,8 +511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/particle_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="90" column="64" lean-forward="true" selection-start-line="90" selection-start-column="64" selection-end-line="90" selection-end-column="64" />
+        <state relative-caret-position="405">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#93#110#0" expanded="true" />
           </folding>
